@@ -1,0 +1,15 @@
+.keyboard{
+    margin-top: -10%;
+    background: grey;
+    padding: 30%;
+    font-size: 40px;
+    letter-spacing: 20px;
+    color: whitesmoke;
+}
+
+
+
+.keyboard .char, .keyboard .num{
+    display: flex;
+   
+}
